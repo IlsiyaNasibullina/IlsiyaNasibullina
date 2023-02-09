@@ -18,6 +18,6 @@ I successfully finished the course "Basics of testing software".
 * C
 
 ### Contacts and my links
-*Telegram - @ilsiya_n
-*email - ilsiyanasibullina@gmail.com
+*Telegram - @ilsiya_n  
+*email - ilsiyanasibullina@gmail.com  
 *instagram - @_ilsiya_n_
