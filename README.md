@@ -14,6 +14,8 @@ I successfully finished the course "Basics of testing software".
 ### Languages
 * C++
 * Java
+* Haskell
+* C#
 * Python
 * C
 
