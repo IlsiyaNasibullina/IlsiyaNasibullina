@@ -1,5 +1,5 @@
 ### About me
-I am a first year bachelor student at Innopolis University, computer science.  
+I am a second year bachelor student at Innopolis University, computer science.  
 Currently I participate in hackatons, contests and strive to get an internship in IT company.  
 During my school years I participated in olympiads:
 * Step into the future 2021
