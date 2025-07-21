@@ -1,6 +1,6 @@
 ### About me
-I am a second year bachelor student at Innopolis University, computer science.  
-Currently I participate in hackatons, contests and strive to get an internship in IT company.  
+I am a fourth year bachelor student at Innopolis University, computer science, cyber security.  
+Currently I participate in ctfs, contests and strive to get world safer.  
 During my school years I participated in olympiads:
 * Step into the future 2021
 * Highest standart 2021
