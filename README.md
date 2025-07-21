@@ -22,4 +22,4 @@ I successfully finished the course "Basics of testing software".
 ### Contacts and my links
 * Telegram - @ilsiya_n  
 * email - ilsiyanasibullina@gmail.com  
-* instagram - @\_ilsiya_n_  
+* linkedin - www.linkedin.com/in/ilsiya-nasibullina-ab6ab0267
